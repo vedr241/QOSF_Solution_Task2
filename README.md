@@ -9,5 +9,4 @@ First two help in variational classifier in pennylane and getting score of binar
 Encoding in Pennylane from below article is very useful. 
 3. https://medium.datadriveninvestor.com/all-about-data-encoding-for-quantum-machine-learning-2a7344b1dfef
 
-QOSF_Angle and QOSF_amplitude are the codes I submit for the QOSF task 2.
 
