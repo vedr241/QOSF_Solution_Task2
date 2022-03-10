@@ -11,5 +11,3 @@ Encoding in Pennylane from below article is very useful.
 
 QOSF_Angle and QOSF_amplitude are the codes I submit for the QOSF task 2.
 
-QOSF_Alternate 
-
